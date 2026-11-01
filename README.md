@@ -13,7 +13,7 @@ I build the software side of that story:
 - **3D on the web:** websites people step inside, from Blender model to browser
 - **AI integration:** AI in the workflow, self-hosted when the data must stay in-house
 
-**Daily tools:** Laravel · PHP · React · TypeScript · PostgreSQL · Redis · three.js · Blender · Docker
+**Daily tools:** Laravel · PHP · React · TypeScript · PostgreSQL · Redis · three.js · Blender · Docker, and many more
 
 Most of my work lives in private repositories for clients.
 
